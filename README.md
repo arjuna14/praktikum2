@@ -11,7 +11,7 @@
 7. jika hasil lebih besar **B** **cout** **B** dan sebaliknya
 
 **flowchart program**
-1[flowchart](https://raw.githubusercontent.com/arjuna14/praktikum2/master/FLOWCHART1.jpg)
+![flowchart](https://raw.githubusercontent.com/arjuna14/praktikum2/master/FLOWCHART1.jpg)
 
 **CODE PROGRAM**
 '''c++
