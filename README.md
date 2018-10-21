@@ -93,5 +93,5 @@ int main()
 '''|
 
 hasilnya :
-![img}(https://raw.githubusercontent.com/arjuna14/praktikum2/master/hasl2.png)
+![img](https://raw.githubusercontent.com/arjuna14/praktikum2/master/hasl2.png)
 
