@@ -14,7 +14,7 @@
 ![flowchart](https://raw.githubusercontent.com/arjuna14/praktikum2/master/FLOWCHART1.jpg)
 
 **CODE PROGRAM**
-'''c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -38,7 +38,7 @@ int main()
 
     }
 }
-'''|
+```|
 
 hasilnya :
 ![img](https://raw.githubusercontent.com/arjuna14/praktikum2/master/hsl1.png)
@@ -61,7 +61,7 @@ hasilnya :
 ![flowchart](https://raw.githubusercontent.com/arjuna14/praktikum2/master/FLOWCHARTLT2.jpg)
   
 **CODE PROGRAM**
-'''c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -90,7 +90,7 @@ int main()
     }
 }
 
-'''|
+```|
 
 hasilnya :
 ![img](https://raw.githubusercontent.com/arjuna14/praktikum2/master/hasl2.png)
